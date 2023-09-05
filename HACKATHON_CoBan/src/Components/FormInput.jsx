@@ -131,10 +131,10 @@ export default function FormInput() {
                 </div>
                 <div className="d-flex justify-content-end gap-3">
                   <p>Move done item at the end?</p>
-                  <div class="form-check form-switch">
+                  <div className="form-check form-switch">
                     <input
                       style={{ color: "white" }}
-                      class="form-check-input"
+                      className="form-check-input"
                       type="checkbox"
                       role="switch"
                       id="flexSwitchCheckDefault"
