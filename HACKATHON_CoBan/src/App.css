@@ -1,0 +1,49 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0;
+  color: white;
+}
+
+
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  margin: 1rem !important;
+  background-color: rgb(255, 92, 92);
+}
+
+.read-the-docs {
+  color: #888;
+}
+.col-xl-10{
+  width: 430px!important;
+}
+.form-outline .form-control{
+  background-color: white;
+  border-radius: 0%;
+}
+.btn{
+  border: 1px solid white;
+  color: white;
+}
+i{
+  color: white;
+}
+input{
+  border: 1px solid rgb(131, 127, 127)!important;
+}
