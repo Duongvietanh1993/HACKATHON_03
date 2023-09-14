@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "ProductName": "Cam ngọt 1",
+      "Price": 10000,
+      "From": "Hà Nội"
+    },
+    {
+      "id": 2,
+      "ProductName": "Táo đỏ",
+      "Price": 12000,
+      "From": "Hà Nội"
+    },
+    {
+      "id": 3,
+      "ProductName": "Dưa hấu",
+      "Price": 15000,
+      "From": "Hà Nội"
+    },
+    {
+      "id": 4,
+      "ProductName": "Cherry",
+      "Price": 18000,
+      "From": "Hà Nội"
+    },
+    {
+      "id": 5,
+      "ProductName": "Xoài",
+      "Price": 11000,
+      "From": "Hà Nội"
+    },
+    {
+      "id": 6,
+      "ProductName": "Dâu tây",
+      "Price": 13000,
+      "From": "Hà Nội"
+    },
+    {
+      "id": 7,
+      "ProductName": "Nho xanh",
+      "Price": 14000,
+      "From": "Hà Nội"
+    },
+    {
+      "id": 8,
+      "ProductName": "Lê",
+      "Price": 16000,
+      "From": "Hà Nội"
+    },
+    {
+      "id": 9,
+      "ProductName": "Bưởi",
+      "Price": 17000,
+      "From": "Hà Nội"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "userName": "Dương Việt Anh",
+      "gender": 0,
+      "dateOfBirth": "2023-09-11",
+      "image": ""
+    }
+  ],
+  "carts": []
+}
